@@ -1,0 +1,1086 @@
+REGION_CODE,REGION_NAME,YEAR,LAND_COVER_TYPE,AREA_KM2,PERCENT
+AR,Arusha,2000,Forest,1649.79,20.03
+AR,Arusha,2000,Cropland,2363.21,28.69
+AR,Arusha,2000,Grassland,2184.31,26.51
+AR,Arusha,2000,Wetland,679.23,8.24
+AR,Arusha,2000,Settlement,925.45,11.23
+AR,Arusha,2000,Barren,436.33,5.3
+AR,Arusha,2000,Water,0.0,0.0
+AR,Arusha,2005,Forest,1608.6,19.53
+AR,Arusha,2005,Cropland,2363.21,28.69
+AR,Arusha,2005,Grassland,2184.31,26.51
+AR,Arusha,2005,Wetland,679.23,8.24
+AR,Arusha,2005,Settlement,966.65,11.73
+AR,Arusha,2005,Barren,436.33,5.3
+AR,Arusha,2005,Water,0.0,0.0
+AR,Arusha,2010,Forest,1567.41,19.03
+AR,Arusha,2010,Cropland,2363.21,28.69
+AR,Arusha,2010,Grassland,2184.31,26.51
+AR,Arusha,2010,Wetland,679.23,8.24
+AR,Arusha,2010,Settlement,1007.84,12.23
+AR,Arusha,2010,Barren,436.33,5.3
+AR,Arusha,2010,Water,0.0,0.0
+AR,Arusha,2015,Forest,1526.22,18.53
+AR,Arusha,2015,Cropland,2363.21,28.69
+AR,Arusha,2015,Grassland,2184.31,26.51
+AR,Arusha,2015,Wetland,679.23,8.24
+AR,Arusha,2015,Settlement,1049.03,12.73
+AR,Arusha,2015,Barren,436.33,5.3
+AR,Arusha,2015,Water,0.0,0.0
+AR,Arusha,2020,Forest,1485.03,18.03
+AR,Arusha,2020,Cropland,2363.21,28.69
+AR,Arusha,2020,Grassland,2184.31,26.51
+AR,Arusha,2020,Wetland,679.23,8.24
+AR,Arusha,2020,Settlement,1090.22,13.23
+AR,Arusha,2020,Barren,436.33,5.3
+AR,Arusha,2020,Water,0.0,0.0
+DS,Dar es Salaam,2000,Forest,1239.67,15.96
+DS,Dar es Salaam,2000,Cropland,2879.21,37.08
+DS,Dar es Salaam,2000,Grassland,1646.13,21.2
+DS,Dar es Salaam,2000,Wetland,693.37,8.93
+DS,Dar es Salaam,2000,Settlement,1307.38,16.84
+DS,Dar es Salaam,2000,Barren,0.0,0.0
+DS,Dar es Salaam,2000,Water,0.0,0.0
+DS,Dar es Salaam,2005,Forest,1200.85,15.46
+DS,Dar es Salaam,2005,Cropland,2879.21,37.08
+DS,Dar es Salaam,2005,Grassland,1646.13,21.2
+DS,Dar es Salaam,2005,Wetland,693.37,8.93
+DS,Dar es Salaam,2005,Settlement,1346.21,17.34
+DS,Dar es Salaam,2005,Barren,0.0,0.0
+DS,Dar es Salaam,2005,Water,0.0,0.0
+DS,Dar es Salaam,2010,Forest,1162.02,14.96
+DS,Dar es Salaam,2010,Cropland,2879.21,37.08
+DS,Dar es Salaam,2010,Grassland,1646.13,21.2
+DS,Dar es Salaam,2010,Wetland,693.37,8.93
+DS,Dar es Salaam,2010,Settlement,1385.04,17.84
+DS,Dar es Salaam,2010,Barren,0.0,0.0
+DS,Dar es Salaam,2010,Water,0.0,0.0
+DS,Dar es Salaam,2015,Forest,1123.19,14.46
+DS,Dar es Salaam,2015,Cropland,2879.21,37.08
+DS,Dar es Salaam,2015,Grassland,1646.13,21.2
+DS,Dar es Salaam,2015,Wetland,693.37,8.93
+DS,Dar es Salaam,2015,Settlement,1423.86,18.34
+DS,Dar es Salaam,2015,Barren,0.0,0.0
+DS,Dar es Salaam,2015,Water,0.0,0.0
+DS,Dar es Salaam,2020,Forest,1084.36,13.96
+DS,Dar es Salaam,2020,Cropland,2879.21,37.08
+DS,Dar es Salaam,2020,Grassland,1646.13,21.2
+DS,Dar es Salaam,2020,Wetland,693.37,8.93
+DS,Dar es Salaam,2020,Settlement,1462.69,18.84
+DS,Dar es Salaam,2020,Barren,0.0,0.0
+DS,Dar es Salaam,2020,Water,0.0,0.0
+DO,Dodoma,2000,Forest,1201.74,11.7
+DO,Dodoma,2000,Cropland,2978.53,29.0
+DO,Dodoma,2000,Grassland,3804.49,37.04
+DO,Dodoma,2000,Wetland,355.7,3.46
+DO,Dodoma,2000,Settlement,1069.96,10.42
+DO,Dodoma,2000,Barren,861.48,8.39
+DO,Dodoma,2000,Water,0.0,0.0
+DO,Dodoma,2005,Forest,1150.38,11.2
+DO,Dodoma,2005,Cropland,2978.53,29.0
+DO,Dodoma,2005,Grassland,3804.49,37.04
+DO,Dodoma,2005,Wetland,355.7,3.46
+DO,Dodoma,2005,Settlement,1121.32,10.92
+DO,Dodoma,2005,Barren,861.48,8.39
+DO,Dodoma,2005,Water,0.0,0.0
+DO,Dodoma,2010,Forest,1099.02,10.7
+DO,Dodoma,2010,Cropland,2978.53,29.0
+DO,Dodoma,2010,Grassland,3804.49,37.04
+DO,Dodoma,2010,Wetland,355.7,3.46
+DO,Dodoma,2010,Settlement,1172.68,11.42
+DO,Dodoma,2010,Barren,861.48,8.39
+DO,Dodoma,2010,Water,0.0,0.0
+DO,Dodoma,2015,Forest,1047.66,10.2
+DO,Dodoma,2015,Cropland,2978.53,29.0
+DO,Dodoma,2015,Grassland,3804.49,37.04
+DO,Dodoma,2015,Wetland,355.7,3.46
+DO,Dodoma,2015,Settlement,1224.04,11.92
+DO,Dodoma,2015,Barren,861.48,8.39
+DO,Dodoma,2015,Water,0.0,0.0
+DO,Dodoma,2020,Forest,996.3,9.7
+DO,Dodoma,2020,Cropland,2978.53,29.0
+DO,Dodoma,2020,Grassland,3804.49,37.04
+DO,Dodoma,2020,Wetland,355.7,3.46
+DO,Dodoma,2020,Settlement,1275.4,12.42
+DO,Dodoma,2020,Barren,861.48,8.39
+DO,Dodoma,2020,Water,0.0,0.0
+GE,Geita,2000,Forest,2078.66,17.56
+GE,Geita,2000,Cropland,4211.63,35.58
+GE,Geita,2000,Grassland,2059.92,17.4
+GE,Geita,2000,Wetland,1843.13,15.57
+GE,Geita,2000,Settlement,759.75,6.42
+GE,Geita,2000,Barren,551.47,4.66
+GE,Geita,2000,Water,331.84,2.8
+GE,Geita,2005,Forest,2019.48,17.06
+GE,Geita,2005,Cropland,4211.63,35.58
+GE,Geita,2005,Grassland,2059.92,17.4
+GE,Geita,2005,Wetland,1843.13,15.57
+GE,Geita,2005,Settlement,818.93,6.92
+GE,Geita,2005,Barren,551.47,4.66
+GE,Geita,2005,Water,331.84,2.8
+GE,Geita,2010,Forest,1960.3,16.56
+GE,Geita,2010,Cropland,4211.63,35.58
+GE,Geita,2010,Grassland,2059.92,17.4
+GE,Geita,2010,Wetland,1843.13,15.57
+GE,Geita,2010,Settlement,878.11,7.42
+GE,Geita,2010,Barren,551.47,4.66
+GE,Geita,2010,Water,331.84,2.8
+GE,Geita,2015,Forest,1901.11,16.06
+GE,Geita,2015,Cropland,4211.63,35.58
+GE,Geita,2015,Grassland,2059.92,17.4
+GE,Geita,2015,Wetland,1843.13,15.57
+GE,Geita,2015,Settlement,937.3,7.92
+GE,Geita,2015,Barren,551.47,4.66
+GE,Geita,2015,Water,331.84,2.8
+GE,Geita,2020,Forest,1841.93,15.56
+GE,Geita,2020,Cropland,4211.63,35.58
+GE,Geita,2020,Grassland,2059.92,17.4
+GE,Geita,2020,Wetland,1843.13,15.57
+GE,Geita,2020,Settlement,996.48,8.42
+GE,Geita,2020,Barren,551.47,4.66
+GE,Geita,2020,Water,331.84,2.8
+IR,Iringa,2000,Forest,5837.39,31.3
+IR,Iringa,2000,Cropland,5995.12,32.15
+IR,Iringa,2000,Grassland,4473.54,23.99
+IR,Iringa,2000,Wetland,341.68,1.83
+IR,Iringa,2000,Settlement,1245.97,6.68
+IR,Iringa,2000,Barren,0.0,0.0
+IR,Iringa,2000,Water,756.03,4.05
+IR,Iringa,2005,Forest,5744.14,30.8
+IR,Iringa,2005,Cropland,5995.12,32.15
+IR,Iringa,2005,Grassland,4473.54,23.99
+IR,Iringa,2005,Wetland,341.68,1.83
+IR,Iringa,2005,Settlement,1339.22,7.18
+IR,Iringa,2005,Barren,0.0,0.0
+IR,Iringa,2005,Water,756.03,4.05
+IR,Iringa,2010,Forest,5650.9,30.3
+IR,Iringa,2010,Cropland,5995.12,32.15
+IR,Iringa,2010,Grassland,4473.54,23.99
+IR,Iringa,2010,Wetland,341.68,1.83
+IR,Iringa,2010,Settlement,1432.47,7.68
+IR,Iringa,2010,Barren,0.0,0.0
+IR,Iringa,2010,Water,756.03,4.05
+IR,Iringa,2015,Forest,5557.65,29.8
+IR,Iringa,2015,Cropland,5995.12,32.15
+IR,Iringa,2015,Grassland,4473.54,23.99
+IR,Iringa,2015,Wetland,341.68,1.83
+IR,Iringa,2015,Settlement,1525.72,8.18
+IR,Iringa,2015,Barren,0.0,0.0
+IR,Iringa,2015,Water,756.03,4.05
+IR,Iringa,2020,Forest,5464.4,29.3
+IR,Iringa,2020,Cropland,5995.12,32.15
+IR,Iringa,2020,Grassland,4473.54,23.99
+IR,Iringa,2020,Wetland,341.68,1.83
+IR,Iringa,2020,Settlement,1618.96,8.68
+IR,Iringa,2020,Barren,0.0,0.0
+IR,Iringa,2020,Water,756.03,4.05
+KA,Kagera,2000,Forest,859.87,20.41
+KA,Kagera,2000,Cropland,1394.08,33.09
+KA,Kagera,2000,Grassland,882.78,20.96
+KA,Kagera,2000,Wetland,609.51,14.47
+KA,Kagera,2000,Settlement,451.92,10.73
+KA,Kagera,2000,Barren,0.0,0.0
+KA,Kagera,2000,Water,14.44,0.34
+KA,Kagera,2005,Forest,838.81,19.91
+KA,Kagera,2005,Cropland,1394.08,33.09
+KA,Kagera,2005,Grassland,882.78,20.96
+KA,Kagera,2005,Wetland,609.51,14.47
+KA,Kagera,2005,Settlement,472.99,11.23
+KA,Kagera,2005,Barren,0.0,0.0
+KA,Kagera,2005,Water,14.44,0.34
+KA,Kagera,2010,Forest,817.74,19.41
+KA,Kagera,2010,Cropland,1394.08,33.09
+KA,Kagera,2010,Grassland,882.78,20.96
+KA,Kagera,2010,Wetland,609.51,14.47
+KA,Kagera,2010,Settlement,494.05,11.73
+KA,Kagera,2010,Barren,0.0,0.0
+KA,Kagera,2010,Water,14.44,0.34
+KA,Kagera,2015,Forest,796.68,18.91
+KA,Kagera,2015,Cropland,1394.08,33.09
+KA,Kagera,2015,Grassland,882.78,20.96
+KA,Kagera,2015,Wetland,609.51,14.47
+KA,Kagera,2015,Settlement,515.11,12.23
+KA,Kagera,2015,Barren,0.0,0.0
+KA,Kagera,2015,Water,14.44,0.34
+KA,Kagera,2020,Forest,775.62,18.41
+KA,Kagera,2020,Cropland,1394.08,33.09
+KA,Kagera,2020,Grassland,882.78,20.96
+KA,Kagera,2020,Wetland,609.51,14.47
+KA,Kagera,2020,Settlement,536.17,12.73
+KA,Kagera,2020,Barren,0.0,0.0
+KA,Kagera,2020,Water,14.44,0.34
+KT,Katavi,2000,Forest,4699.83,37.33
+KT,Katavi,2000,Cropland,3194.68,25.38
+KT,Katavi,2000,Grassland,2740.8,21.77
+KT,Katavi,2000,Wetland,1176.48,9.35
+KT,Katavi,2000,Settlement,776.65,6.17
+KT,Katavi,2000,Barren,0.0,0.0
+KT,Katavi,2000,Water,0.0,0.0
+KT,Katavi,2005,Forest,4636.88,36.83
+KT,Katavi,2005,Cropland,3194.68,25.38
+KT,Katavi,2005,Grassland,2740.8,21.77
+KT,Katavi,2005,Wetland,1176.48,9.35
+KT,Katavi,2005,Settlement,839.59,6.67
+KT,Katavi,2005,Barren,0.0,0.0
+KT,Katavi,2005,Water,0.0,0.0
+KT,Katavi,2010,Forest,4573.94,36.33
+KT,Katavi,2010,Cropland,3194.68,25.38
+KT,Katavi,2010,Grassland,2740.8,21.77
+KT,Katavi,2010,Wetland,1176.48,9.35
+KT,Katavi,2010,Settlement,902.53,7.17
+KT,Katavi,2010,Barren,0.0,0.0
+KT,Katavi,2010,Water,0.0,0.0
+KT,Katavi,2015,Forest,4511.0,35.83
+KT,Katavi,2015,Cropland,3194.68,25.38
+KT,Katavi,2015,Grassland,2740.8,21.77
+KT,Katavi,2015,Wetland,1176.48,9.35
+KT,Katavi,2015,Settlement,965.48,7.67
+KT,Katavi,2015,Barren,0.0,0.0
+KT,Katavi,2015,Water,0.0,0.0
+KT,Katavi,2020,Forest,4448.06,35.33
+KT,Katavi,2020,Cropland,3194.68,25.38
+KT,Katavi,2020,Grassland,2740.8,21.77
+KT,Katavi,2020,Wetland,1176.48,9.35
+KT,Katavi,2020,Settlement,1028.42,8.17
+KT,Katavi,2020,Barren,0.0,0.0
+KT,Katavi,2020,Water,0.0,0.0
+KI,Kigoma,2000,Forest,1045.35,37.21
+KI,Kigoma,2000,Cropland,862.83,30.71
+KI,Kigoma,2000,Grassland,508.13,18.09
+KI,Kigoma,2000,Wetland,227.38,8.09
+KI,Kigoma,2000,Settlement,153.14,5.45
+KI,Kigoma,2000,Barren,0.0,0.0
+KI,Kigoma,2000,Water,12.42,0.44
+KI,Kigoma,2005,Forest,1031.3,36.71
+KI,Kigoma,2005,Cropland,862.83,30.71
+KI,Kigoma,2005,Grassland,508.13,18.09
+KI,Kigoma,2005,Wetland,227.38,8.09
+KI,Kigoma,2005,Settlement,167.18,5.95
+KI,Kigoma,2005,Barren,0.0,0.0
+KI,Kigoma,2005,Water,12.42,0.44
+KI,Kigoma,2010,Forest,1017.25,36.21
+KI,Kigoma,2010,Cropland,862.83,30.71
+KI,Kigoma,2010,Grassland,508.13,18.09
+KI,Kigoma,2010,Wetland,227.38,8.09
+KI,Kigoma,2010,Settlement,181.23,6.45
+KI,Kigoma,2010,Barren,0.0,0.0
+KI,Kigoma,2010,Water,12.42,0.44
+KI,Kigoma,2015,Forest,1003.21,35.71
+KI,Kigoma,2015,Cropland,862.83,30.71
+KI,Kigoma,2015,Grassland,508.13,18.09
+KI,Kigoma,2015,Wetland,227.38,8.09
+KI,Kigoma,2015,Settlement,195.28,6.95
+KI,Kigoma,2015,Barren,0.0,0.0
+KI,Kigoma,2015,Water,12.42,0.44
+KI,Kigoma,2020,Forest,989.16,35.21
+KI,Kigoma,2020,Cropland,862.83,30.71
+KI,Kigoma,2020,Grassland,508.13,18.09
+KI,Kigoma,2020,Wetland,227.38,8.09
+KI,Kigoma,2020,Settlement,209.32,7.45
+KI,Kigoma,2020,Barren,0.0,0.0
+KI,Kigoma,2020,Water,12.42,0.44
+KL,Kilimanjaro,2000,Forest,1434.4,19.45
+KL,Kilimanjaro,2000,Cropland,2406.04,32.62
+KL,Kilimanjaro,2000,Grassland,2357.05,31.95
+KL,Kilimanjaro,2000,Wetland,88.66,1.2
+KL,Kilimanjaro,2000,Settlement,543.06,7.36
+KL,Kilimanjaro,2000,Barren,474.75,6.44
+KL,Kilimanjaro,2000,Water,72.5,0.98
+KL,Kilimanjaro,2005,Forest,1397.52,18.95
+KL,Kilimanjaro,2005,Cropland,2406.04,32.62
+KL,Kilimanjaro,2005,Grassland,2357.05,31.95
+KL,Kilimanjaro,2005,Wetland,88.66,1.2
+KL,Kilimanjaro,2005,Settlement,579.95,7.86
+KL,Kilimanjaro,2005,Barren,474.75,6.44
+KL,Kilimanjaro,2005,Water,72.5,0.98
+KL,Kilimanjaro,2010,Forest,1360.64,18.45
+KL,Kilimanjaro,2010,Cropland,2406.04,32.62
+KL,Kilimanjaro,2010,Grassland,2357.05,31.95
+KL,Kilimanjaro,2010,Wetland,88.66,1.2
+KL,Kilimanjaro,2010,Settlement,616.83,8.36
+KL,Kilimanjaro,2010,Barren,474.75,6.44
+KL,Kilimanjaro,2010,Water,72.5,0.98
+KL,Kilimanjaro,2015,Forest,1323.76,17.95
+KL,Kilimanjaro,2015,Cropland,2406.04,32.62
+KL,Kilimanjaro,2015,Grassland,2357.05,31.95
+KL,Kilimanjaro,2015,Wetland,88.66,1.2
+KL,Kilimanjaro,2015,Settlement,653.71,8.86
+KL,Kilimanjaro,2015,Barren,474.75,6.44
+KL,Kilimanjaro,2015,Water,72.5,0.98
+KL,Kilimanjaro,2020,Forest,1286.88,17.45
+KL,Kilimanjaro,2020,Cropland,2406.04,32.62
+KL,Kilimanjaro,2020,Grassland,2357.05,31.95
+KL,Kilimanjaro,2020,Wetland,88.66,1.2
+KL,Kilimanjaro,2020,Settlement,690.59,9.36
+KL,Kilimanjaro,2020,Barren,474.75,6.44
+KL,Kilimanjaro,2020,Water,72.5,0.98
+LI,Lindi,2000,Forest,2061.48,29.53
+LI,Lindi,2000,Cropland,1888.7,27.06
+LI,Lindi,2000,Grassland,1476.38,21.15
+LI,Lindi,2000,Wetland,948.86,13.59
+LI,Lindi,2000,Settlement,424.47,6.08
+LI,Lindi,2000,Barren,180.46,2.59
+LI,Lindi,2000,Water,0.0,0.0
+LI,Lindi,2005,Forest,2026.57,29.03
+LI,Lindi,2005,Cropland,1888.7,27.06
+LI,Lindi,2005,Grassland,1476.38,21.15
+LI,Lindi,2005,Wetland,948.86,13.59
+LI,Lindi,2005,Settlement,459.37,6.58
+LI,Lindi,2005,Barren,180.46,2.59
+LI,Lindi,2005,Water,0.0,0.0
+LI,Lindi,2010,Forest,1991.67,28.53
+LI,Lindi,2010,Cropland,1888.7,27.06
+LI,Lindi,2010,Grassland,1476.38,21.15
+LI,Lindi,2010,Wetland,948.86,13.59
+LI,Lindi,2010,Settlement,494.27,7.08
+LI,Lindi,2010,Barren,180.46,2.59
+LI,Lindi,2010,Water,0.0,0.0
+LI,Lindi,2015,Forest,1956.77,28.03
+LI,Lindi,2015,Cropland,1888.7,27.06
+LI,Lindi,2015,Grassland,1476.38,21.15
+LI,Lindi,2015,Wetland,948.86,13.59
+LI,Lindi,2015,Settlement,529.17,7.58
+LI,Lindi,2015,Barren,180.46,2.59
+LI,Lindi,2015,Water,0.0,0.0
+LI,Lindi,2020,Forest,1921.87,27.53
+LI,Lindi,2020,Cropland,1888.7,27.06
+LI,Lindi,2020,Grassland,1476.38,21.15
+LI,Lindi,2020,Wetland,948.86,13.59
+LI,Lindi,2020,Settlement,564.07,8.08
+LI,Lindi,2020,Barren,180.46,2.59
+LI,Lindi,2020,Water,0.0,0.0
+MA,Manyara,2000,Forest,1692.9,24.96
+MA,Manyara,2000,Cropland,2033.5,29.99
+MA,Manyara,2000,Grassland,2111.23,31.13
+MA,Manyara,2000,Wetland,466.87,6.88
+MA,Manyara,2000,Settlement,419.19,6.18
+MA,Manyara,2000,Barren,57.6,0.85
+MA,Manyara,2000,Water,0.0,0.0
+MA,Manyara,2005,Forest,1658.99,24.46
+MA,Manyara,2005,Cropland,2033.5,29.99
+MA,Manyara,2005,Grassland,2111.23,31.13
+MA,Manyara,2005,Wetland,466.87,6.88
+MA,Manyara,2005,Settlement,453.1,6.68
+MA,Manyara,2005,Barren,57.6,0.85
+MA,Manyara,2005,Water,0.0,0.0
+MA,Manyara,2010,Forest,1625.08,23.96
+MA,Manyara,2010,Cropland,2033.5,29.99
+MA,Manyara,2010,Grassland,2111.23,31.13
+MA,Manyara,2010,Wetland,466.87,6.88
+MA,Manyara,2010,Settlement,487.0,7.18
+MA,Manyara,2010,Barren,57.6,0.85
+MA,Manyara,2010,Water,0.0,0.0
+MA,Manyara,2015,Forest,1591.18,23.46
+MA,Manyara,2015,Cropland,2033.5,29.99
+MA,Manyara,2015,Grassland,2111.23,31.13
+MA,Manyara,2015,Wetland,466.87,6.88
+MA,Manyara,2015,Settlement,520.91,7.68
+MA,Manyara,2015,Barren,57.6,0.85
+MA,Manyara,2015,Water,0.0,0.0
+MA,Manyara,2020,Forest,1557.27,22.96
+MA,Manyara,2020,Cropland,2033.5,29.99
+MA,Manyara,2020,Grassland,2111.23,31.13
+MA,Manyara,2020,Wetland,466.87,6.88
+MA,Manyara,2020,Settlement,554.82,8.18
+MA,Manyara,2020,Barren,57.6,0.85
+MA,Manyara,2020,Water,0.0,0.0
+MR,Mara,2000,Forest,2235.63,24.07
+MR,Mara,2000,Cropland,2298.82,24.75
+MR,Mara,2000,Grassland,1659.99,17.87
+MR,Mara,2000,Wetland,1409.89,15.18
+MR,Mara,2000,Settlement,918.55,9.89
+MR,Mara,2000,Barren,0.0,0.0
+MR,Mara,2000,Water,766.64,8.25
+MR,Mara,2005,Forest,2189.18,23.57
+MR,Mara,2005,Cropland,2298.82,24.75
+MR,Mara,2005,Grassland,1659.99,17.87
+MR,Mara,2005,Wetland,1409.89,15.18
+MR,Mara,2005,Settlement,965.0,10.39
+MR,Mara,2005,Barren,0.0,0.0
+MR,Mara,2005,Water,766.64,8.25
+MR,Mara,2010,Forest,2142.73,23.07
+MR,Mara,2010,Cropland,2298.82,24.75
+MR,Mara,2010,Grassland,1659.99,17.87
+MR,Mara,2010,Wetland,1409.89,15.18
+MR,Mara,2010,Settlement,1011.45,10.89
+MR,Mara,2010,Barren,0.0,0.0
+MR,Mara,2010,Water,766.64,8.25
+MR,Mara,2015,Forest,2096.29,22.57
+MR,Mara,2015,Cropland,2298.82,24.75
+MR,Mara,2015,Grassland,1659.99,17.87
+MR,Mara,2015,Wetland,1409.89,15.18
+MR,Mara,2015,Settlement,1057.89,11.39
+MR,Mara,2015,Barren,0.0,0.0
+MR,Mara,2015,Water,766.64,8.25
+MR,Mara,2020,Forest,2049.84,22.07
+MR,Mara,2020,Cropland,2298.82,24.75
+MR,Mara,2020,Grassland,1659.99,17.87
+MR,Mara,2020,Wetland,1409.89,15.18
+MR,Mara,2020,Settlement,1104.34,11.89
+MR,Mara,2020,Barren,0.0,0.0
+MR,Mara,2020,Water,766.64,8.25
+MB,Mbeya,2000,Forest,2663.55,40.26
+MB,Mbeya,2000,Cropland,1757.57,26.57
+MB,Mbeya,2000,Grassland,1141.91,17.26
+MB,Mbeya,2000,Wetland,366.99,5.55
+MB,Mbeya,2000,Settlement,639.47,9.67
+MB,Mbeya,2000,Barren,46.17,0.7
+MB,Mbeya,2000,Water,0.0,0.0
+MB,Mbeya,2005,Forest,2630.48,39.76
+MB,Mbeya,2005,Cropland,1757.57,26.57
+MB,Mbeya,2005,Grassland,1141.91,17.26
+MB,Mbeya,2005,Wetland,366.99,5.55
+MB,Mbeya,2005,Settlement,672.55,10.17
+MB,Mbeya,2005,Barren,46.17,0.7
+MB,Mbeya,2005,Water,0.0,0.0
+MB,Mbeya,2010,Forest,2597.4,39.26
+MB,Mbeya,2010,Cropland,1757.57,26.57
+MB,Mbeya,2010,Grassland,1141.91,17.26
+MB,Mbeya,2010,Wetland,366.99,5.55
+MB,Mbeya,2010,Settlement,705.62,10.67
+MB,Mbeya,2010,Barren,46.17,0.7
+MB,Mbeya,2010,Water,0.0,0.0
+MB,Mbeya,2015,Forest,2564.32,38.76
+MB,Mbeya,2015,Cropland,1757.57,26.57
+MB,Mbeya,2015,Grassland,1141.91,17.26
+MB,Mbeya,2015,Wetland,366.99,5.55
+MB,Mbeya,2015,Settlement,738.7,11.17
+MB,Mbeya,2015,Barren,46.17,0.7
+MB,Mbeya,2015,Water,0.0,0.0
+MB,Mbeya,2020,Forest,2531.24,38.26
+MB,Mbeya,2020,Cropland,1757.57,26.57
+MB,Mbeya,2020,Grassland,1141.91,17.26
+MB,Mbeya,2020,Wetland,366.99,5.55
+MB,Mbeya,2020,Settlement,771.78,11.67
+MB,Mbeya,2020,Barren,46.17,0.7
+MB,Mbeya,2020,Water,0.0,0.0
+MO,Morogoro,2000,Forest,756.54,15.94
+MO,Morogoro,2000,Cropland,1524.68,32.12
+MO,Morogoro,2000,Grassland,995.66,20.97
+MO,Morogoro,2000,Wetland,477.58,10.06
+MO,Morogoro,2000,Settlement,800.85,16.87
+MO,Morogoro,2000,Barren,168.06,3.54
+MO,Morogoro,2000,Water,24.14,0.51
+MO,Morogoro,2005,Forest,732.8,15.44
+MO,Morogoro,2005,Cropland,1524.68,32.12
+MO,Morogoro,2005,Grassland,995.66,20.97
+MO,Morogoro,2005,Wetland,477.58,10.06
+MO,Morogoro,2005,Settlement,824.59,17.37
+MO,Morogoro,2005,Barren,168.06,3.54
+MO,Morogoro,2005,Water,24.14,0.51
+MO,Morogoro,2010,Forest,709.06,14.94
+MO,Morogoro,2010,Cropland,1524.68,32.12
+MO,Morogoro,2010,Grassland,995.66,20.97
+MO,Morogoro,2010,Wetland,477.58,10.06
+MO,Morogoro,2010,Settlement,848.32,17.87
+MO,Morogoro,2010,Barren,168.06,3.54
+MO,Morogoro,2010,Water,24.14,0.51
+MO,Morogoro,2015,Forest,685.32,14.44
+MO,Morogoro,2015,Cropland,1524.68,32.12
+MO,Morogoro,2015,Grassland,995.66,20.97
+MO,Morogoro,2015,Wetland,477.58,10.06
+MO,Morogoro,2015,Settlement,872.06,18.37
+MO,Morogoro,2015,Barren,168.06,3.54
+MO,Morogoro,2015,Water,24.14,0.51
+MO,Morogoro,2020,Forest,661.59,13.94
+MO,Morogoro,2020,Cropland,1524.68,32.12
+MO,Morogoro,2020,Grassland,995.66,20.97
+MO,Morogoro,2020,Wetland,477.58,10.06
+MO,Morogoro,2020,Settlement,895.8,18.87
+MO,Morogoro,2020,Barren,168.06,3.54
+MO,Morogoro,2020,Water,24.14,0.51
+MT,Mtwara,2000,Forest,4273.26,29.29
+MT,Mtwara,2000,Cropland,3892.17,26.68
+MT,Mtwara,2000,Grassland,2471.44,16.94
+MT,Mtwara,2000,Wetland,1408.92,9.66
+MT,Mtwara,2000,Settlement,675.78,4.63
+MT,Mtwara,2000,Barren,1314.05,9.01
+MT,Mtwara,2000,Water,554.51,3.8
+MT,Mtwara,2005,Forest,4200.31,28.79
+MT,Mtwara,2005,Cropland,3892.17,26.68
+MT,Mtwara,2005,Grassland,2471.44,16.94
+MT,Mtwara,2005,Wetland,1408.92,9.66
+MT,Mtwara,2005,Settlement,748.73,5.13
+MT,Mtwara,2005,Barren,1314.05,9.01
+MT,Mtwara,2005,Water,554.51,3.8
+MT,Mtwara,2010,Forest,4127.36,28.29
+MT,Mtwara,2010,Cropland,3892.17,26.68
+MT,Mtwara,2010,Grassland,2471.44,16.94
+MT,Mtwara,2010,Wetland,1408.92,9.66
+MT,Mtwara,2010,Settlement,821.68,5.63
+MT,Mtwara,2010,Barren,1314.05,9.01
+MT,Mtwara,2010,Water,554.51,3.8
+MT,Mtwara,2015,Forest,4054.41,27.79
+MT,Mtwara,2015,Cropland,3892.17,26.68
+MT,Mtwara,2015,Grassland,2471.44,16.94
+MT,Mtwara,2015,Wetland,1408.92,9.66
+MT,Mtwara,2015,Settlement,894.63,6.13
+MT,Mtwara,2015,Barren,1314.05,9.01
+MT,Mtwara,2015,Water,554.51,3.8
+MT,Mtwara,2020,Forest,3981.46,27.29
+MT,Mtwara,2020,Cropland,3892.17,26.68
+MT,Mtwara,2020,Grassland,2471.44,16.94
+MT,Mtwara,2020,Wetland,1408.92,9.66
+MT,Mtwara,2020,Settlement,967.58,6.63
+MT,Mtwara,2020,Barren,1314.05,9.01
+MT,Mtwara,2020,Water,554.51,3.8
+MW,Mwanza,2000,Forest,2500.01,22.85
+MW,Mwanza,2000,Cropland,3476.25,31.77
+MW,Mwanza,2000,Grassland,2086.62,19.07
+MW,Mwanza,2000,Wetland,1462.42,13.37
+MW,Mwanza,2000,Settlement,1087.32,9.94
+MW,Mwanza,2000,Barren,0.0,0.0
+MW,Mwanza,2000,Water,328.37,3.0
+MW,Mwanza,2005,Forest,2445.3,22.35
+MW,Mwanza,2005,Cropland,3476.25,31.77
+MW,Mwanza,2005,Grassland,2086.62,19.07
+MW,Mwanza,2005,Wetland,1462.42,13.37
+MW,Mwanza,2005,Settlement,1142.02,10.44
+MW,Mwanza,2005,Barren,0.0,0.0
+MW,Mwanza,2005,Water,328.37,3.0
+MW,Mwanza,2010,Forest,2390.6,21.85
+MW,Mwanza,2010,Cropland,3476.25,31.77
+MW,Mwanza,2010,Grassland,2086.62,19.07
+MW,Mwanza,2010,Wetland,1462.42,13.37
+MW,Mwanza,2010,Settlement,1196.73,10.94
+MW,Mwanza,2010,Barren,0.0,0.0
+MW,Mwanza,2010,Water,328.37,3.0
+MW,Mwanza,2015,Forest,2335.89,21.35
+MW,Mwanza,2015,Cropland,3476.25,31.77
+MW,Mwanza,2015,Grassland,2086.62,19.07
+MW,Mwanza,2015,Wetland,1462.42,13.37
+MW,Mwanza,2015,Settlement,1251.43,11.44
+MW,Mwanza,2015,Barren,0.0,0.0
+MW,Mwanza,2015,Water,328.37,3.0
+MW,Mwanza,2020,Forest,2281.19,20.85
+MW,Mwanza,2020,Cropland,3476.25,31.77
+MW,Mwanza,2020,Grassland,2086.62,19.07
+MW,Mwanza,2020,Wetland,1462.42,13.37
+MW,Mwanza,2020,Settlement,1306.14,11.94
+MW,Mwanza,2020,Barren,0.0,0.0
+MW,Mwanza,2020,Water,328.37,3.0
+NJ,Njombe,2000,Forest,1777.87,38.29
+NJ,Njombe,2000,Cropland,1353.79,29.16
+NJ,Njombe,2000,Grassland,712.84,15.35
+NJ,Njombe,2000,Wetland,116.39,2.51
+NJ,Njombe,2000,Settlement,682.21,14.69
+NJ,Njombe,2000,Barren,0.0,0.0
+NJ,Njombe,2000,Water,0.0,0.0
+NJ,Njombe,2005,Forest,1754.65,37.79
+NJ,Njombe,2005,Cropland,1353.79,29.16
+NJ,Njombe,2005,Grassland,712.84,15.35
+NJ,Njombe,2005,Wetland,116.39,2.51
+NJ,Njombe,2005,Settlement,705.43,15.19
+NJ,Njombe,2005,Barren,0.0,0.0
+NJ,Njombe,2005,Water,0.0,0.0
+NJ,Njombe,2010,Forest,1731.44,37.29
+NJ,Njombe,2010,Cropland,1353.79,29.16
+NJ,Njombe,2010,Grassland,712.84,15.35
+NJ,Njombe,2010,Wetland,116.39,2.51
+NJ,Njombe,2010,Settlement,728.65,15.69
+NJ,Njombe,2010,Barren,0.0,0.0
+NJ,Njombe,2010,Water,0.0,0.0
+NJ,Njombe,2015,Forest,1708.22,36.79
+NJ,Njombe,2015,Cropland,1353.79,29.16
+NJ,Njombe,2015,Grassland,712.84,15.35
+NJ,Njombe,2015,Wetland,116.39,2.51
+NJ,Njombe,2015,Settlement,751.86,16.19
+NJ,Njombe,2015,Barren,0.0,0.0
+NJ,Njombe,2015,Water,0.0,0.0
+NJ,Njombe,2020,Forest,1685.01,36.29
+NJ,Njombe,2020,Cropland,1353.79,29.16
+NJ,Njombe,2020,Grassland,712.84,15.35
+NJ,Njombe,2020,Wetland,116.39,2.51
+NJ,Njombe,2020,Settlement,775.08,16.69
+NJ,Njombe,2020,Barren,0.0,0.0
+NJ,Njombe,2020,Water,0.0,0.0
+PN,Pemba North,2000,Forest,3564.4,22.76
+PN,Pemba North,2000,Cropland,4807.04,30.69
+PN,Pemba North,2000,Grassland,836.65,5.34
+PN,Pemba North,2000,Wetland,1525.16,9.74
+PN,Pemba North,2000,Settlement,2856.47,18.24
+PN,Pemba North,2000,Barren,159.68,1.02
+PN,Pemba North,2000,Water,1911.55,12.21
+PN,Pemba North,2005,Forest,3486.1,22.26
+PN,Pemba North,2005,Cropland,4807.04,30.69
+PN,Pemba North,2005,Grassland,836.65,5.34
+PN,Pemba North,2005,Wetland,1525.16,9.74
+PN,Pemba North,2005,Settlement,2934.78,18.74
+PN,Pemba North,2005,Barren,159.68,1.02
+PN,Pemba North,2005,Water,1911.55,12.21
+PN,Pemba North,2010,Forest,3407.79,21.76
+PN,Pemba North,2010,Cropland,4807.04,30.69
+PN,Pemba North,2010,Grassland,836.65,5.34
+PN,Pemba North,2010,Wetland,1525.16,9.74
+PN,Pemba North,2010,Settlement,3013.08,19.24
+PN,Pemba North,2010,Barren,159.68,1.02
+PN,Pemba North,2010,Water,1911.55,12.21
+PN,Pemba North,2015,Forest,3329.49,21.26
+PN,Pemba North,2015,Cropland,4807.04,30.69
+PN,Pemba North,2015,Grassland,836.65,5.34
+PN,Pemba North,2015,Wetland,1525.16,9.74
+PN,Pemba North,2015,Settlement,3091.39,19.74
+PN,Pemba North,2015,Barren,159.68,1.02
+PN,Pemba North,2015,Water,1911.55,12.21
+PN,Pemba North,2020,Forest,3251.18,20.76
+PN,Pemba North,2020,Cropland,4807.04,30.69
+PN,Pemba North,2020,Grassland,836.65,5.34
+PN,Pemba North,2020,Wetland,1525.16,9.74
+PN,Pemba North,2020,Settlement,3169.69,20.24
+PN,Pemba North,2020,Barren,159.68,1.02
+PN,Pemba North,2020,Water,1911.55,12.21
+PS,Pemba South,2000,Forest,697.96,20.2
+PS,Pemba South,2000,Cropland,994.11,28.77
+PS,Pemba South,2000,Grassland,359.43,10.4
+PS,Pemba South,2000,Wetland,377.11,10.92
+PS,Pemba South,2000,Settlement,458.78,13.28
+PS,Pemba South,2000,Barren,140.57,4.07
+PS,Pemba South,2000,Water,426.96,12.36
+PS,Pemba South,2005,Forest,680.68,19.7
+PS,Pemba South,2005,Cropland,994.11,28.77
+PS,Pemba South,2005,Grassland,359.43,10.4
+PS,Pemba South,2005,Wetland,377.11,10.92
+PS,Pemba South,2005,Settlement,476.06,13.78
+PS,Pemba South,2005,Barren,140.57,4.07
+PS,Pemba South,2005,Water,426.96,12.36
+PS,Pemba South,2010,Forest,663.41,19.2
+PS,Pemba South,2010,Cropland,994.11,28.77
+PS,Pemba South,2010,Grassland,359.43,10.4
+PS,Pemba South,2010,Wetland,377.11,10.92
+PS,Pemba South,2010,Settlement,493.33,14.28
+PS,Pemba South,2010,Barren,140.57,4.07
+PS,Pemba South,2010,Water,426.96,12.36
+PS,Pemba South,2015,Forest,646.13,18.7
+PS,Pemba South,2015,Cropland,994.11,28.77
+PS,Pemba South,2015,Grassland,359.43,10.4
+PS,Pemba South,2015,Wetland,377.11,10.92
+PS,Pemba South,2015,Settlement,510.6,14.78
+PS,Pemba South,2015,Barren,140.57,4.07
+PS,Pemba South,2015,Water,426.96,12.36
+PS,Pemba South,2020,Forest,628.86,18.2
+PS,Pemba South,2020,Cropland,994.11,28.77
+PS,Pemba South,2020,Grassland,359.43,10.4
+PS,Pemba South,2020,Wetland,377.11,10.92
+PS,Pemba South,2020,Settlement,527.88,15.28
+PS,Pemba South,2020,Barren,140.57,4.07
+PS,Pemba South,2020,Water,426.96,12.36
+PW,Pwani,2000,Forest,1016.18,17.48
+PW,Pwani,2000,Cropland,1927.92,33.17
+PW,Pwani,2000,Grassland,1057.06,18.18
+PW,Pwani,2000,Wetland,714.64,12.29
+PW,Pwani,2000,Settlement,1062.46,18.28
+PW,Pwani,2000,Barren,0.0,0.0
+PW,Pwani,2000,Water,34.75,0.6
+PW,Pwani,2005,Forest,987.12,16.98
+PW,Pwani,2005,Cropland,1927.92,33.17
+PW,Pwani,2005,Grassland,1057.06,18.18
+PW,Pwani,2005,Wetland,714.64,12.29
+PW,Pwani,2005,Settlement,1091.52,18.78
+PW,Pwani,2005,Barren,0.0,0.0
+PW,Pwani,2005,Water,34.75,0.6
+PW,Pwani,2010,Forest,958.05,16.48
+PW,Pwani,2010,Cropland,1927.92,33.17
+PW,Pwani,2010,Grassland,1057.06,18.18
+PW,Pwani,2010,Wetland,714.64,12.29
+PW,Pwani,2010,Settlement,1120.59,19.28
+PW,Pwani,2010,Barren,0.0,0.0
+PW,Pwani,2010,Water,34.75,0.6
+PW,Pwani,2015,Forest,928.99,15.98
+PW,Pwani,2015,Cropland,1927.92,33.17
+PW,Pwani,2015,Grassland,1057.06,18.18
+PW,Pwani,2015,Wetland,714.64,12.29
+PW,Pwani,2015,Settlement,1149.65,19.78
+PW,Pwani,2015,Barren,0.0,0.0
+PW,Pwani,2015,Water,34.75,0.6
+PW,Pwani,2020,Forest,899.92,15.48
+PW,Pwani,2020,Cropland,1927.92,33.17
+PW,Pwani,2020,Grassland,1057.06,18.18
+PW,Pwani,2020,Wetland,714.64,12.29
+PW,Pwani,2020,Settlement,1178.72,20.28
+PW,Pwani,2020,Barren,0.0,0.0
+PW,Pwani,2020,Water,34.75,0.6
+RU,Rukwa,2000,Forest,4671.43,33.46
+RU,Rukwa,2000,Cropland,3497.9,25.05
+RU,Rukwa,2000,Grassland,2430.14,17.41
+RU,Rukwa,2000,Wetland,1357.57,9.72
+RU,Rukwa,2000,Settlement,1053.52,7.55
+RU,Rukwa,2000,Barren,535.04,3.83
+RU,Rukwa,2000,Water,416.62,2.98
+RU,Rukwa,2005,Forest,4601.62,32.96
+RU,Rukwa,2005,Cropland,3497.9,25.05
+RU,Rukwa,2005,Grassland,2430.14,17.41
+RU,Rukwa,2005,Wetland,1357.57,9.72
+RU,Rukwa,2005,Settlement,1123.33,8.05
+RU,Rukwa,2005,Barren,535.04,3.83
+RU,Rukwa,2005,Water,416.62,2.98
+RU,Rukwa,2010,Forest,4531.8,32.46
+RU,Rukwa,2010,Cropland,3497.9,25.05
+RU,Rukwa,2010,Grassland,2430.14,17.41
+RU,Rukwa,2010,Wetland,1357.57,9.72
+RU,Rukwa,2010,Settlement,1193.14,8.55
+RU,Rukwa,2010,Barren,535.04,3.83
+RU,Rukwa,2010,Water,416.62,2.98
+RU,Rukwa,2015,Forest,4461.99,31.96
+RU,Rukwa,2015,Cropland,3497.9,25.05
+RU,Rukwa,2015,Grassland,2430.14,17.41
+RU,Rukwa,2015,Wetland,1357.57,9.72
+RU,Rukwa,2015,Settlement,1262.95,9.05
+RU,Rukwa,2015,Barren,535.04,3.83
+RU,Rukwa,2015,Water,416.62,2.98
+RU,Rukwa,2020,Forest,4392.18,31.46
+RU,Rukwa,2020,Cropland,3497.9,25.05
+RU,Rukwa,2020,Grassland,2430.14,17.41
+RU,Rukwa,2020,Wetland,1357.57,9.72
+RU,Rukwa,2020,Settlement,1332.76,9.55
+RU,Rukwa,2020,Barren,535.04,3.83
+RU,Rukwa,2020,Water,416.62,2.98
+RV,Ruvuma,2000,Forest,2423.56,32.92
+RV,Ruvuma,2000,Cropland,2124.2,28.85
+RV,Ruvuma,2000,Grassland,1511.69,20.53
+RV,Ruvuma,2000,Wetland,923.46,12.54
+RV,Ruvuma,2000,Settlement,242.5,3.29
+RV,Ruvuma,2000,Barren,137.22,1.86
+RV,Ruvuma,2000,Water,0.0,0.0
+RV,Ruvuma,2005,Forest,2386.75,32.42
+RV,Ruvuma,2005,Cropland,2124.2,28.85
+RV,Ruvuma,2005,Grassland,1511.69,20.53
+RV,Ruvuma,2005,Wetland,923.46,12.54
+RV,Ruvuma,2005,Settlement,279.32,3.79
+RV,Ruvuma,2005,Barren,137.22,1.86
+RV,Ruvuma,2005,Water,0.0,0.0
+RV,Ruvuma,2010,Forest,2349.94,31.92
+RV,Ruvuma,2010,Cropland,2124.2,28.85
+RV,Ruvuma,2010,Grassland,1511.69,20.53
+RV,Ruvuma,2010,Wetland,923.46,12.54
+RV,Ruvuma,2010,Settlement,316.13,4.29
+RV,Ruvuma,2010,Barren,137.22,1.86
+RV,Ruvuma,2010,Water,0.0,0.0
+RV,Ruvuma,2015,Forest,2313.12,31.42
+RV,Ruvuma,2015,Cropland,2124.2,28.85
+RV,Ruvuma,2015,Grassland,1511.69,20.53
+RV,Ruvuma,2015,Wetland,923.46,12.54
+RV,Ruvuma,2015,Settlement,352.94,4.79
+RV,Ruvuma,2015,Barren,137.22,1.86
+RV,Ruvuma,2015,Water,0.0,0.0
+RV,Ruvuma,2020,Forest,2276.31,30.92
+RV,Ruvuma,2020,Cropland,2124.2,28.85
+RV,Ruvuma,2020,Grassland,1511.69,20.53
+RV,Ruvuma,2020,Wetland,923.46,12.54
+RV,Ruvuma,2020,Settlement,389.76,5.29
+RV,Ruvuma,2020,Barren,137.22,1.86
+RV,Ruvuma,2020,Water,0.0,0.0
+SH,Shinyanga,2000,Forest,522.61,17.86
+SH,Shinyanga,2000,Cropland,908.55,31.04
+SH,Shinyanga,2000,Grassland,491.0,16.78
+SH,Shinyanga,2000,Wetland,495.39,16.93
+SH,Shinyanga,2000,Settlement,423.06,14.45
+SH,Shinyanga,2000,Barren,0.0,0.0
+SH,Shinyanga,2000,Water,86.29,2.95
+SH,Shinyanga,2005,Forest,507.97,17.36
+SH,Shinyanga,2005,Cropland,908.55,31.04
+SH,Shinyanga,2005,Grassland,491.0,16.78
+SH,Shinyanga,2005,Wetland,495.39,16.93
+SH,Shinyanga,2005,Settlement,437.7,14.95
+SH,Shinyanga,2005,Barren,0.0,0.0
+SH,Shinyanga,2005,Water,86.29,2.95
+SH,Shinyanga,2010,Forest,493.34,16.86
+SH,Shinyanga,2010,Cropland,908.55,31.04
+SH,Shinyanga,2010,Grassland,491.0,16.78
+SH,Shinyanga,2010,Wetland,495.39,16.93
+SH,Shinyanga,2010,Settlement,452.33,15.45
+SH,Shinyanga,2010,Barren,0.0,0.0
+SH,Shinyanga,2010,Water,86.29,2.95
+SH,Shinyanga,2015,Forest,478.7,16.36
+SH,Shinyanga,2015,Cropland,908.55,31.04
+SH,Shinyanga,2015,Grassland,491.0,16.78
+SH,Shinyanga,2015,Wetland,495.39,16.93
+SH,Shinyanga,2015,Settlement,466.97,15.95
+SH,Shinyanga,2015,Barren,0.0,0.0
+SH,Shinyanga,2015,Water,86.29,2.95
+SH,Shinyanga,2020,Forest,464.07,15.86
+SH,Shinyanga,2020,Cropland,908.55,31.04
+SH,Shinyanga,2020,Grassland,491.0,16.78
+SH,Shinyanga,2020,Wetland,495.39,16.93
+SH,Shinyanga,2020,Settlement,481.6,16.45
+SH,Shinyanga,2020,Barren,0.0,0.0
+SH,Shinyanga,2020,Water,86.29,2.95
+SI,Simiyu,2000,Forest,1630.17,16.05
+SI,Simiyu,2000,Cropland,2750.45,27.08
+SI,Simiyu,2000,Grassland,2108.91,20.76
+SI,Simiyu,2000,Wetland,1947.65,19.17
+SI,Simiyu,2000,Settlement,911.72,8.98
+SI,Simiyu,2000,Barren,0.0,0.0
+SI,Simiyu,2000,Water,808.72,7.96
+SI,Simiyu,2005,Forest,1579.38,15.55
+SI,Simiyu,2005,Cropland,2750.45,27.08
+SI,Simiyu,2005,Grassland,2108.91,20.76
+SI,Simiyu,2005,Wetland,1947.65,19.17
+SI,Simiyu,2005,Settlement,962.51,9.48
+SI,Simiyu,2005,Barren,0.0,0.0
+SI,Simiyu,2005,Water,808.72,7.96
+SI,Simiyu,2010,Forest,1528.59,15.05
+SI,Simiyu,2010,Cropland,2750.45,27.08
+SI,Simiyu,2010,Grassland,2108.91,20.76
+SI,Simiyu,2010,Wetland,1947.65,19.17
+SI,Simiyu,2010,Settlement,1013.3,9.98
+SI,Simiyu,2010,Barren,0.0,0.0
+SI,Simiyu,2010,Water,808.72,7.96
+SI,Simiyu,2015,Forest,1477.81,14.55
+SI,Simiyu,2015,Cropland,2750.45,27.08
+SI,Simiyu,2015,Grassland,2108.91,20.76
+SI,Simiyu,2015,Wetland,1947.65,19.17
+SI,Simiyu,2015,Settlement,1064.08,10.48
+SI,Simiyu,2015,Barren,0.0,0.0
+SI,Simiyu,2015,Water,808.72,7.96
+SI,Simiyu,2020,Forest,1427.02,14.05
+SI,Simiyu,2020,Cropland,2750.45,27.08
+SI,Simiyu,2020,Grassland,2108.91,20.76
+SI,Simiyu,2020,Wetland,1947.65,19.17
+SI,Simiyu,2020,Settlement,1114.87,10.98
+SI,Simiyu,2020,Barren,0.0,0.0
+SI,Simiyu,2020,Water,808.72,7.96
+SD,Singida,2000,Forest,1737.74,14.19
+SD,Singida,2000,Cropland,4155.06,33.93
+SD,Singida,2000,Grassland,4568.49,37.3
+SD,Singida,2000,Wetland,135.52,1.11
+SD,Singida,2000,Settlement,714.64,5.84
+SD,Singida,2000,Barren,838.04,6.84
+SD,Singida,2000,Water,97.39,0.8
+SD,Singida,2005,Forest,1676.51,13.69
+SD,Singida,2005,Cropland,4155.06,33.93
+SD,Singida,2005,Grassland,4568.49,37.3
+SD,Singida,2005,Wetland,135.52,1.11
+SD,Singida,2005,Settlement,775.88,6.34
+SD,Singida,2005,Barren,838.04,6.84
+SD,Singida,2005,Water,97.39,0.8
+SD,Singida,2010,Forest,1615.27,13.19
+SD,Singida,2010,Cropland,4155.06,33.93
+SD,Singida,2010,Grassland,4568.49,37.3
+SD,Singida,2010,Wetland,135.52,1.11
+SD,Singida,2010,Settlement,837.11,6.84
+SD,Singida,2010,Barren,838.04,6.84
+SD,Singida,2010,Water,97.39,0.8
+SD,Singida,2015,Forest,1554.04,12.69
+SD,Singida,2015,Cropland,4155.06,33.93
+SD,Singida,2015,Grassland,4568.49,37.3
+SD,Singida,2015,Wetland,135.52,1.11
+SD,Singida,2015,Settlement,898.35,7.34
+SD,Singida,2015,Barren,838.04,6.84
+SD,Singida,2015,Water,97.39,0.8
+SD,Singida,2020,Forest,1492.8,12.19
+SD,Singida,2020,Cropland,4155.06,33.93
+SD,Singida,2020,Grassland,4568.49,37.3
+SD,Singida,2020,Wetland,135.52,1.11
+SD,Singida,2020,Settlement,959.58,7.84
+SD,Singida,2020,Barren,838.04,6.84
+SD,Singida,2020,Water,97.39,0.8
+SO,Songwe,2000,Forest,1919.52,33.81
+SO,Songwe,2000,Cropland,1702.07,29.98
+SO,Songwe,2000,Grassland,901.02,15.87
+SO,Songwe,2000,Wetland,514.75,9.07
+SO,Songwe,2000,Settlement,432.68,7.62
+SO,Songwe,2000,Barren,206.5,3.64
+SO,Songwe,2000,Water,0.0,0.0
+SO,Songwe,2005,Forest,1891.14,33.31
+SO,Songwe,2005,Cropland,1702.07,29.98
+SO,Songwe,2005,Grassland,901.02,15.87
+SO,Songwe,2005,Wetland,514.75,9.07
+SO,Songwe,2005,Settlement,461.06,8.12
+SO,Songwe,2005,Barren,206.5,3.64
+SO,Songwe,2005,Water,0.0,0.0
+SO,Songwe,2010,Forest,1862.76,32.81
+SO,Songwe,2010,Cropland,1702.07,29.98
+SO,Songwe,2010,Grassland,901.02,15.87
+SO,Songwe,2010,Wetland,514.75,9.07
+SO,Songwe,2010,Settlement,489.44,8.62
+SO,Songwe,2010,Barren,206.5,3.64
+SO,Songwe,2010,Water,0.0,0.0
+SO,Songwe,2015,Forest,1834.38,32.31
+SO,Songwe,2015,Cropland,1702.07,29.98
+SO,Songwe,2015,Grassland,901.02,15.87
+SO,Songwe,2015,Wetland,514.75,9.07
+SO,Songwe,2015,Settlement,517.82,9.12
+SO,Songwe,2015,Barren,206.5,3.64
+SO,Songwe,2015,Water,0.0,0.0
+SO,Songwe,2020,Forest,1805.99,31.81
+SO,Songwe,2020,Cropland,1702.07,29.98
+SO,Songwe,2020,Grassland,901.02,15.87
+SO,Songwe,2020,Wetland,514.75,9.07
+SO,Songwe,2020,Settlement,546.21,9.62
+SO,Songwe,2020,Barren,206.5,3.64
+SO,Songwe,2020,Water,0.0,0.0
+TB,Tabora,2000,Forest,4112.8,40.09
+TB,Tabora,2000,Cropland,2450.87,23.89
+TB,Tabora,2000,Grassland,1775.67,17.31
+TB,Tabora,2000,Wetland,938.96,9.15
+TB,Tabora,2000,Settlement,953.85,9.3
+TB,Tabora,2000,Barren,27.03,0.26
+TB,Tabora,2000,Water,0.0,0.0
+TB,Tabora,2005,Forest,4061.5,39.59
+TB,Tabora,2005,Cropland,2450.87,23.89
+TB,Tabora,2005,Grassland,1775.67,17.31
+TB,Tabora,2005,Wetland,938.96,9.15
+TB,Tabora,2005,Settlement,1005.15,9.8
+TB,Tabora,2005,Barren,27.03,0.26
+TB,Tabora,2005,Water,0.0,0.0
+TB,Tabora,2010,Forest,4010.21,39.09
+TB,Tabora,2010,Cropland,2450.87,23.89
+TB,Tabora,2010,Grassland,1775.67,17.31
+TB,Tabora,2010,Wetland,938.96,9.15
+TB,Tabora,2010,Settlement,1056.44,10.3
+TB,Tabora,2010,Barren,27.03,0.26
+TB,Tabora,2010,Water,0.0,0.0
+TB,Tabora,2015,Forest,3958.91,38.59
+TB,Tabora,2015,Cropland,2450.87,23.89
+TB,Tabora,2015,Grassland,1775.67,17.31
+TB,Tabora,2015,Wetland,938.96,9.15
+TB,Tabora,2015,Settlement,1107.74,10.8
+TB,Tabora,2015,Barren,27.03,0.26
+TB,Tabora,2015,Water,0.0,0.0
+TB,Tabora,2020,Forest,3907.62,38.09
+TB,Tabora,2020,Cropland,2450.87,23.89
+TB,Tabora,2020,Grassland,1775.67,17.31
+TB,Tabora,2020,Wetland,938.96,9.15
+TB,Tabora,2020,Settlement,1159.04,11.3
+TB,Tabora,2020,Barren,27.03,0.26
+TB,Tabora,2020,Water,0.0,0.0
+TA,Tanga,2000,Forest,1058.8,14.72
+TA,Tanga,2000,Cropland,2866.48,39.86
+TA,Tanga,2000,Grassland,1349.88,18.77
+TA,Tanga,2000,Wetland,764.73,10.63
+TA,Tanga,2000,Settlement,972.5,13.52
+TA,Tanga,2000,Barren,0.0,0.0
+TA,Tanga,2000,Water,179.89,2.5
+TA,Tanga,2005,Forest,1022.84,14.22
+TA,Tanga,2005,Cropland,2866.48,39.86
+TA,Tanga,2005,Grassland,1349.88,18.77
+TA,Tanga,2005,Wetland,764.73,10.63
+TA,Tanga,2005,Settlement,1008.46,14.02
+TA,Tanga,2005,Barren,0.0,0.0
+TA,Tanga,2005,Water,179.89,2.5
+TA,Tanga,2010,Forest,986.88,13.72
+TA,Tanga,2010,Cropland,2866.48,39.86
+TA,Tanga,2010,Grassland,1349.88,18.77
+TA,Tanga,2010,Wetland,764.73,10.63
+TA,Tanga,2010,Settlement,1044.42,14.52
+TA,Tanga,2010,Barren,0.0,0.0
+TA,Tanga,2010,Water,179.89,2.5
+TA,Tanga,2015,Forest,950.92,13.22
+TA,Tanga,2015,Cropland,2866.48,39.86
+TA,Tanga,2015,Grassland,1349.88,18.77
+TA,Tanga,2015,Wetland,764.73,10.63
+TA,Tanga,2015,Settlement,1080.38,15.02
+TA,Tanga,2015,Barren,0.0,0.0
+TA,Tanga,2015,Water,179.89,2.5
+TA,Tanga,2020,Forest,914.96,12.72
+TA,Tanga,2020,Cropland,2866.48,39.86
+TA,Tanga,2020,Grassland,1349.88,18.77
+TA,Tanga,2020,Wetland,764.73,10.63
+TA,Tanga,2020,Settlement,1116.34,15.52
+TA,Tanga,2020,Barren,0.0,0.0
+TA,Tanga,2020,Water,179.89,2.5
+ZC,Zanzibar Central/South,2000,Forest,3635.3,21.02
+ZC,Zanzibar Central/South,2000,Cropland,5051.95,29.21
+ZC,Zanzibar Central/South,2000,Grassland,1081.64,6.25
+ZC,Zanzibar Central/South,2000,Wetland,2169.73,12.55
+ZC,Zanzibar Central/South,2000,Settlement,3560.54,20.59
+ZC,Zanzibar Central/South,2000,Barren,696.38,4.03
+ZC,Zanzibar Central/South,2000,Water,1098.58,6.35
+ZC,Zanzibar Central/South,2005,Forest,3548.83,20.52
+ZC,Zanzibar Central/South,2005,Cropland,5051.95,29.21
+ZC,Zanzibar Central/South,2005,Grassland,1081.64,6.25
+ZC,Zanzibar Central/South,2005,Wetland,2169.73,12.55
+ZC,Zanzibar Central/South,2005,Settlement,3647.01,21.09
+ZC,Zanzibar Central/South,2005,Barren,696.38,4.03
+ZC,Zanzibar Central/South,2005,Water,1098.58,6.35
+ZC,Zanzibar Central/South,2010,Forest,3462.36,20.02
+ZC,Zanzibar Central/South,2010,Cropland,5051.95,29.21
+ZC,Zanzibar Central/South,2010,Grassland,1081.64,6.25
+ZC,Zanzibar Central/South,2010,Wetland,2169.73,12.55
+ZC,Zanzibar Central/South,2010,Settlement,3733.48,21.59
+ZC,Zanzibar Central/South,2010,Barren,696.38,4.03
+ZC,Zanzibar Central/South,2010,Water,1098.58,6.35
+ZC,Zanzibar Central/South,2015,Forest,3375.89,19.52
+ZC,Zanzibar Central/South,2015,Cropland,5051.95,29.21
+ZC,Zanzibar Central/South,2015,Grassland,1081.64,6.25
+ZC,Zanzibar Central/South,2015,Wetland,2169.73,12.55
+ZC,Zanzibar Central/South,2015,Settlement,3819.95,22.09
+ZC,Zanzibar Central/South,2015,Barren,696.38,4.03
+ZC,Zanzibar Central/South,2015,Water,1098.58,6.35
+ZC,Zanzibar Central/South,2020,Forest,3289.42,19.02
+ZC,Zanzibar Central/South,2020,Cropland,5051.95,29.21
+ZC,Zanzibar Central/South,2020,Grassland,1081.64,6.25
+ZC,Zanzibar Central/South,2020,Wetland,2169.73,12.55
+ZC,Zanzibar Central/South,2020,Settlement,3906.42,22.59
+ZC,Zanzibar Central/South,2020,Barren,696.38,4.03
+ZC,Zanzibar Central/South,2020,Water,1098.58,6.35
+ZN,Zanzibar North,2000,Forest,638.02,17.96
+ZN,Zanzibar North,2000,Cropland,1296.17,36.49
+ZN,Zanzibar North,2000,Grassland,199.75,5.62
+ZN,Zanzibar North,2000,Wetland,390.13,10.98
+ZN,Zanzibar North,2000,Settlement,772.66,21.75
+ZN,Zanzibar North,2000,Barren,15.17,0.43
+ZN,Zanzibar North,2000,Water,239.98,6.76
+ZN,Zanzibar North,2005,Forest,620.27,17.46
+ZN,Zanzibar North,2005,Cropland,1296.17,36.49
+ZN,Zanzibar North,2005,Grassland,199.75,5.62
+ZN,Zanzibar North,2005,Wetland,390.13,10.98
+ZN,Zanzibar North,2005,Settlement,790.42,22.25
+ZN,Zanzibar North,2005,Barren,15.17,0.43
+ZN,Zanzibar North,2005,Water,239.98,6.76
+ZN,Zanzibar North,2010,Forest,602.51,16.96
+ZN,Zanzibar North,2010,Cropland,1296.17,36.49
+ZN,Zanzibar North,2010,Grassland,199.75,5.62
+ZN,Zanzibar North,2010,Wetland,390.13,10.98
+ZN,Zanzibar North,2010,Settlement,808.18,22.75
+ZN,Zanzibar North,2010,Barren,15.17,0.43
+ZN,Zanzibar North,2010,Water,239.98,6.76
+ZN,Zanzibar North,2015,Forest,584.75,16.46
+ZN,Zanzibar North,2015,Cropland,1296.17,36.49
+ZN,Zanzibar North,2015,Grassland,199.75,5.62
+ZN,Zanzibar North,2015,Wetland,390.13,10.98
+ZN,Zanzibar North,2015,Settlement,825.93,23.25
+ZN,Zanzibar North,2015,Barren,15.17,0.43
+ZN,Zanzibar North,2015,Water,239.98,6.76
+ZN,Zanzibar North,2020,Forest,566.99,15.96
+ZN,Zanzibar North,2020,Cropland,1296.17,36.49
+ZN,Zanzibar North,2020,Grassland,199.75,5.62
+ZN,Zanzibar North,2020,Wetland,390.13,10.98
+ZN,Zanzibar North,2020,Settlement,843.69,23.75
+ZN,Zanzibar North,2020,Barren,15.17,0.43
+ZN,Zanzibar North,2020,Water,239.98,6.76
+ZW,Zanzibar West,2000,Forest,1817.08,21.75
+ZW,Zanzibar West,2000,Cropland,2788.18,33.38
+ZW,Zanzibar West,2000,Grassland,622.46,7.45
+ZW,Zanzibar West,2000,Wetland,853.79,10.22
+ZW,Zanzibar West,2000,Settlement,1551.86,18.58
+ZW,Zanzibar West,2000,Barren,3.25,0.04
+ZW,Zanzibar West,2000,Water,716.35,8.58
+ZW,Zanzibar West,2005,Forest,1775.31,21.25
+ZW,Zanzibar West,2005,Cropland,2788.18,33.38
+ZW,Zanzibar West,2005,Grassland,622.46,7.45
+ZW,Zanzibar West,2005,Wetland,853.79,10.22
+ZW,Zanzibar West,2005,Settlement,1593.63,19.08
+ZW,Zanzibar West,2005,Barren,3.25,0.04
+ZW,Zanzibar West,2005,Water,716.35,8.58
+ZW,Zanzibar West,2010,Forest,1733.55,20.75
+ZW,Zanzibar West,2010,Cropland,2788.18,33.38
+ZW,Zanzibar West,2010,Grassland,622.46,7.45
+ZW,Zanzibar West,2010,Wetland,853.79,10.22
+ZW,Zanzibar West,2010,Settlement,1635.39,19.58
+ZW,Zanzibar West,2010,Barren,3.25,0.04
+ZW,Zanzibar West,2010,Water,716.35,8.58
+ZW,Zanzibar West,2015,Forest,1691.78,20.25
+ZW,Zanzibar West,2015,Cropland,2788.18,33.38
+ZW,Zanzibar West,2015,Grassland,622.46,7.45
+ZW,Zanzibar West,2015,Wetland,853.79,10.22
+ZW,Zanzibar West,2015,Settlement,1677.16,20.08
+ZW,Zanzibar West,2015,Barren,3.25,0.04
+ZW,Zanzibar West,2015,Water,716.35,8.58
+ZW,Zanzibar West,2020,Forest,1650.02,19.75
+ZW,Zanzibar West,2020,Cropland,2788.18,33.38
+ZW,Zanzibar West,2020,Grassland,622.46,7.45
+ZW,Zanzibar West,2020,Wetland,853.79,10.22
+ZW,Zanzibar West,2020,Settlement,1718.92,20.58
+ZW,Zanzibar West,2020,Barren,3.25,0.04
+ZW,Zanzibar West,2020,Water,716.35,8.58
